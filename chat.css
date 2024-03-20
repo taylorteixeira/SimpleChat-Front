@@ -126,6 +126,7 @@ img {
       color: #fff;
       border-radius: 5px;
       cursor: pointer;
+      gap: 3px;
     }
 
     button[type="submit"]:hover {
